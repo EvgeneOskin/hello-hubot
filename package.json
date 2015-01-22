@@ -20,7 +20,12 @@
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "scraper": "0.0.9",
+    "nodepie": "0.6.6",
+    "cheerio": "0.18.0",
+    "underscore": "1.7.0",
+    "xml2js": "0.4.4"
   },
   "engines": {
     "node": "0.10.x"
