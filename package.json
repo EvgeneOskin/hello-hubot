@@ -22,6 +22,7 @@
     "hubot-shipit": "^0.1.1",
     "hubot-youtube": "^0.1.2",
     "scraper": "0.0.9",
+    "hubot-alias": "0.1.7",
     "nodepie": "0.6.6",
     "cheerio": "0.18.0",
     "underscore": "1.7.0",

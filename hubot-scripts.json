@@ -1,1 +1,21 @@
-["httpcat.coffee", "howdoi.coffee", "hackernews.coffee", "google.coffee", "go-for-it.coffee", "zen.coffee", "yoda-quotes.coffee", "tasks.coffee", "points.coffee", "pokefacts.coffee", "pomodoro.coffee", "reddit-jokes.coffee", "remember.coffee", "remind.coffee", "roll.coffee", "xkcd.coffee", "nickgen.coffee", "buscemi.coffee"]
+[
+    "httpcat.coffee",
+    "setenv.coffee",
+    "howdoi.coffee",
+    "hackernews.coffee",
+    "google.coffee",
+    "go-for-it.coffee",
+    "zen.coffee",
+    "yoda-quotes.coffee",
+    "tasks.coffee",
+    "points.coffee",
+    "pokefacts.coffee",
+    "pomodoro.coffee",
+    "reddit-jokes.coffee",
+    "remember.coffee",
+    "remind.coffee",
+    "roll.coffee",
+    "xkcd.coffee",
+    "nickgen.coffee",
+    "buscemi.coffee"
+]
